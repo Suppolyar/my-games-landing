@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evolution-page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/global-city-page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guild-of-heroes-page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lefttosurvive-page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rush-royale-page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/war-robots-page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/world-above-page" vcs="Git" />
+  </component>
+</project>
